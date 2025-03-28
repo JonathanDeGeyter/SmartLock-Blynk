@@ -200,9 +200,26 @@ SmartLock-Blynk/
 ├── esp32/
 │   └── smartlock_esp32.ino
 ├── blynk/
-│   └── server.jar
-├── docs/
-│   └── images/(Grafana, Blynk and Wiring Diagram)           
+│   └── server-0.41.16.jar
+├── images/
+│   └── grafana/
+│       └── buttonevent_codeentry_cardevent_fingerprintevent.png
+│       └── drawerstate_drawertimeout_servoaction_ultrasonicdistance.png
+│       └── systemstate_securityevent_esp32rssi_esp32health.png
+│   └── blynk/
+│       └── lcd_config.png
+│       └── drawer_config1.png
+│       └── drawer_config2.png
+│       └── drawer_config3.png
+│       └── drawer_config4.png
+│       └── system_config1.png
+│       └── system_config2.png
+│       └── system_config3.png
+│       └── system_config4.png
+│       └── terminal_config.png
+│   └── wiring/
+│       └── RPI5.png
+        └── esp32.png 
 └── README.md
 ```
 
