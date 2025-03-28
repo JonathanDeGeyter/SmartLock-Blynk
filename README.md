@@ -192,7 +192,7 @@ sudo tailscale up
 
 ## 📁 File Structure
 ```
-smart-lock-drawer/
+SmartLock-Blynk/
 ├── raspberry_pi/
 │   ├── rpi_main.py
 │   ├── LCD.py
